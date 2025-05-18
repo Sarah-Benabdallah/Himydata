@@ -1,0 +1,4 @@
+[console_scripts]
+himydata = main:main
+himydata-cluster = scripts.run_clustering:run_clustering_interactive
+himydata-explore = scripts.run_exploration:run_exploration_interactive
